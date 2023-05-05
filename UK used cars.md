@@ -1208,11 +1208,8 @@ px.treemap(model, path=[model['model']],
               values=model['total'])
 ```
 
-    C:\Users\tuana\anaconda3\lib\site-packages\plotly\express\_core.py:1637: FutureWarning:
-    
-    The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-    
-    ![newplot](https://user-images.githubusercontent.com/131003972/236448749-6648ba29-4f6f-4f39-8398-4502ef4a75b9.png)
+   ![newplot](https://user-images.githubusercontent.com/131003972/236449739-5c614b1c-1009-4fae-a2c4-4953161f6549.png)
+
 
 
 
